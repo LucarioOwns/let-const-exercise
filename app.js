@@ -7,10 +7,6 @@ const PI = 3.14;
 
  
 
-
-
-
-
 // Quiz
 //  What is the difference between var and let?
 // 	let  can be reassigned but not redeclared, you can 	reassign and redeclare var
